@@ -21,3 +21,6 @@ configuration.sh
 ```
 # Note
 This program was developed on Ubuntu 22.04, and all the testing was done with this OS, however every Debian-based distro should work just fine.
+
+# Important
+The program is not complete yet, I will upload all files in a few days.
