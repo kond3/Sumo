@@ -19,3 +19,5 @@ Then, to start the program just type:
 ```
 configuration.sh
 ```
+# Note
+This program was developed on Ubuntu 22.04, and all the testing was done with this OS, however every Debian-based distro should work just fine.
