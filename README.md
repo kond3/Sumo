@@ -21,7 +21,7 @@ configuration.sh
 ```
 # Note
 This program was developed on Ubuntu 22.04, and all the testing was done with this OS, however every Debian-based distro should work just fine.
-To view a detailed example of program execution, check out the wiki!
+To understand program flow and view a detailed example of program execution, check out the [wiki](https://github.com/kond3/Sumo/wiki)!
 
 # Important
 The program is not complete yet, I will upload all files in a few days.
