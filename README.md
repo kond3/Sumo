@@ -60,7 +60,7 @@ During the testing phase, I created a simple script to delete resources from a t
 ```
 delete_resource.sh <resource_name_1> [resource_name_2] ... [resource_name_n]
 ```
-To make it work you just need to insert id-key pair inside the script.
+To make it work you just need to insert id-key pair inside the script. Resource names must match the ones used in `./api/import.txt`.
 ***
 # Important
 The program is not complete yet, I will upload all files in a few days.
