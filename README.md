@@ -21,6 +21,30 @@ Then, to start the program just type:
 configuration.sh
 ```
 ***
+# Supported resources
+### Log Analytics Platform
+- Role
+- User
+- Dashboard
+- Log Search
+- Collector
+- Source
+- Field
+- Field Extraction Rule
+- Scheduled view
+### Cloud SIEM Enterprise
+- Rule
+- Rule Tuning Expression
+- Log Mapping
+- Threat Intel Source
+- Entity Criticality Config
+- Custom Insight
+- Context action
+- Custom Entity Type
+- Custom Match List Column
+- Match List
+- Match List Item
+***
 # Note
 
 I chose BASH to do this project for two principal reasons:
