@@ -52,7 +52,7 @@ I chose BASH to do this project for two principal reasons:
 2. 🐧 The nice tux interface of cowsay 
 
 This program was developed on Ubuntu 22.04, and all the testing was done with this OS, however every Debian-based distro should work just fine.
-To understand program flow and view a detailed example of program execution, check out the [wiki](https://github.com/kond3/Sumo/wiki)!
+To understand the program structure and view a detailed example of program execution, check out the [wiki](https://github.com/kond3/Sumo/wiki)!
 ***
 # Delete
 
