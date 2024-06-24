@@ -1,0 +1,2 @@
+personal_folder : https://api.de.sumologic.com/api/v2/content/folders/personal
+folder : https://api.de.sumologic.com/api/v2/content/folders
