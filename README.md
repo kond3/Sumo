@@ -1,5 +1,5 @@
 # Sumo Logic API
-I developed this program during my first internship as a SOC Analyst, when, each time a new client (or tenant) was added to the Sumo Logic SIEM, all configuration were made "by hand" through the web interface. Using the API documentation at [Sumo API docs](https://help.sumologic.com/docs/api/) I developed a BASH program to automate some of the configurations. I'm looking forward to improving its functionality, if you want to contribute, take a look at the [tasklist](https://github.com/kond3/Sumo/issues/1)!
+I developed this program during my first internship as a SOC Analyst, when, each time a new client (or tenant) was added to the Sumo Logic SIEM, all configuration were made "by hand" through the web interface. Using the API documentation at [Sumo API docs](https://help.sumologic.com/docs/api/) I developed a BASH program to automate some of these configurations. I'm looking forward to improving its functionality, if you want to contribute, take a look at the [tasklist](https://github.com/kond3/Sumo/issues/1)!
 ***
 # Installation and usage
 Program execution is quite straightforward, however some initial configurations are required. First, create an access ID - access key pair from Sumo (`Administration` -> `Security` -> `Access Key`).
