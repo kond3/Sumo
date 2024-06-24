@@ -13,7 +13,7 @@ git clone https://github.com/kond3/Sumo.git
 cd Sumo
 
 export PATH=$PATH:$(pwd)
-chmod 744 configure.sh
+chmod 744 configure.sh dir.sh
 chmod 744 script/*.sh
 ```
 Then, to start the program just type:
@@ -58,6 +58,7 @@ To understand the program structure and view a detailed example of program execu
 
 During the testing phase, I created a simple script to delete resources from a tentan. I want to include it to the repo as `delete_resource.sh` for everyone that can find it useful. It's usage is quite simple:
 ```
+chmod 744 delete_resource.sh
 delete_resource.sh <resource_name_1> [resource_name_2] ... [resource_name_n]
 ```
 To make it work you just need to insert id-key pair inside the script.
