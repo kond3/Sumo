@@ -65,3 +65,7 @@ To make it work you just need to insert id-key pair inside the script.
 
 **Note:** Resource names must match those used in `./api/import.txt`.
 ***
+# Support
+This is an opensource tool, it is NOT an official Sumo Logic product. This repository and the code within are NOT supported by Sumo Logic.
+
+Please submit bugs using the project [issues](https://github.com/kond3/Sumo/issues) page.
