@@ -62,5 +62,3 @@ delete_resource.sh <resource_name_1> [resource_name_2] ... [resource_name_n]
 ```
 To make it work you just need to insert id-key pair inside the script. Resource names must match those used in `./api/import.txt`.
 ***
-# Important
-The program is not complete yet, I will upload all files in a few days.
