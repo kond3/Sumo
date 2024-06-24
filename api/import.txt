@@ -1,0 +1,22 @@
+ALL 
+END 
+role : https://api.de.sumologic.com/api/v1/roles
+user : https://api.de.sumologic.com/api/v1/users
+dashboard : https://api.de.sumologic.com/api/v2/dashboards ?limit=100&mode=allViewableByUser
+log_search : https://api.de.sumologic.com/api/v1/logSearches ?limit=100
+collector : https://api.de.sumologic.com/api/v1/collectors
+source : https://api.de.sumologic.com/api/v1/collectors/collector_ID/sources
+field : https://api.de.sumologic.com/api/v1/fields
+field_extraction_rule : https://api.de.sumologic.com/api/v1/extractionRules ?limit=1000
+scheduled_view : https://api.de.sumologic.com/api/v1/scheduledViews ?limit=1000
+cse_rule : https://api.de.sumologic.com/api/sec/v1/rules ?limit=500&q=ruleSource:"user"
+cse_rule_tuning_expression : https://api.de.sumologic.com/api/sec/v1/rule-tuning-expressions ?limit=100
+cse_log_mapping : https://api.de.sumologic.com/api/sec/v1/log-mappings ?limit=500&q=isCustom:"true"
+cse_threat_intel_source : https://api.de.sumologic.com/api/sec/v1/threat-intel-sources ?limit=100
+cse_entity_criticality_config : https://api.de.sumologic.com/api/sec/v1/entity-criticality-configs ?limit=500
+cse_custom_insight : https://api.de.sumologic.com/api/sec/v1/custom-insights ?limit=100
+cse_context_action : https://api.de.sumologic.com/api/sec/v1/context-actions ?limit=100
+cse_custom_entity_type : https://api.de.sumologic.com/api/sec/v1/custom-entity-types ?limit=100
+custom_match_list_column : https://api.de.sumologic.com/api/sec/v1/custom-match-list-columns
+cse_match_list : https://api.de.sumologic.com/api/sec/v1/match-lists
+cse_match_list_item : https://api.de.sumologic.com/api/sec/v1/match-list-items ?limit=1000
