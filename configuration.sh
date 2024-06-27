@@ -125,7 +125,7 @@ function check(){
 
 # This function welcomes the user and initialize a file with credentials for the new tenant.
 function welcome() {
-	cow 34 "Welcome to Sumo tenant configuration script! Configuring a new Sumo tenant from scratch through its web interface can be a real pain, fortunately CLI and API can make your much life easier. Let's start with tenant name and credentials."
+	cow 34 "Welcome to Sumo tenant configuration script! Configuring a new Sumo tenant from scratch through its web interface can be a real pain, fortunately CLI and API can make your life much easier. Let's start with tenant name and credentials."
 
 	nl 2
 
