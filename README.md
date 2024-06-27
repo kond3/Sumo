@@ -2,7 +2,7 @@
 I developed this program during my first internship as a SOC Analyst, when, each time a new client (or tenant) was added to the Sumo Logic SIEM, all configuration were made "by hand" through the web interface. Using the API documentation at [Sumo API docs](https://help.sumologic.com/docs/api/) I developed this BASH program to automate some of these configurations, which allows you to replicate configurations from a previous tenant to a new one, choosing what type of resources you want to replicate, selecting some of them, and also changing them just before the update to the new tenant. I'm looking forward to improving its functionalities, if you want to contribute, take a look at the [tasklist](https://github.com/kond3/Sumo/issues/1)!
 ***
 # Installation and usage
-Program execution is quite straightforward, however some initial configurations are required. First, create an access ID - access key pair from Sumo (`Administration` -> `Security` -> `Access Key`).
+Program execution is quite straightforward, however some initial configurations are required. First, create an access ID - access key pair from Sumo Logic Web interface (`Administration` -> `Security` -> `Access Key`).
 
 Once you have id and key, the actual configuration can start:
 ```
